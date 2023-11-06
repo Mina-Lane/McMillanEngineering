@@ -206,6 +206,17 @@ nav a:hover {
     margin: auto;
 }
 
+.reviews {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.sk-ww-google-reviews {
+    margin-top: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
 .location-box {
     max-width: 1200px;
     margin: auto;
